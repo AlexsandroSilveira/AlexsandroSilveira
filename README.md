@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlexsandroSilveira
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
+- 💞️ I’m a physics teacher
