@@ -7,6 +7,7 @@
 
 #### [Portfólio de Projetos](https://alexsandrosilveira.github.io/portfolio_projetos/)
 
+  * [Teste A/B](https://github.com/AlexsandroSilveira/ab_teste)
   * [Previsão de interessados em seguros através de venda cruzada(Cross-Sell)](https://github.com/AlexsandroSilveira/cross_sell)
   * [Previsão de vendas das farmácias Rossmann](https://github.com/AlexsandroSilveira/ds_producao)
   * [Projeto de Web Scraping](https://github.com/AlexsandroSilveira/web_scraping_H-M)
